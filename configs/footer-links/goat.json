@@ -1,0 +1,52 @@
+[
+    {
+        "title": "Gooat",
+        "links": [
+            {
+                "text": "Home",
+                "url": "https://www.goat.network/"
+            },
+            {
+                "text": "Core-contributors",
+                "url": "https://www.goat.network/#core-contributors"
+            },
+            {
+                "text": "Roadmap",
+                "url": "https://www.goat.network/#roadmap"
+            },
+            {
+                "text": "Events",
+                "url": "https://www.goat.network/events"
+            },
+            {
+                "text": "Blog",
+                "url": "https://www.goat.network/blog"
+            }
+        ]
+    },
+    {
+        "title": "Community",
+        "links": [
+            {
+                "text": "Telegram",
+                "url": "https://t.me/GOATrollup"
+            },
+            {
+                "text": "X (formerly Twitter)",
+                "url": "https://x.com/GOATrollup"
+            },
+            {
+                "text": "LinkedIn",
+                "url": "https://www.linkedin.cn/incareer/company/goatrollup/?viewAsMember=true"
+            },
+            {
+                "text": "Discord",
+                "url": "https://discord.com/invite/goatnetwork"
+            },
+            {
+                "text": "YouTube",
+                "url": "https://www.youtube.com/@GOATRollup"
+            }
+        ]
+    }
+]
